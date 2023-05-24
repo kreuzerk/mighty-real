@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mighty-real": {
+      "hosting": {
+        "mighty-real": [
+          "mighty-real"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mighty-real"
+  }
+}
